@@ -1,5 +1,7 @@
 # disruptinginc
 
+Es necesario usar Flutter 3.x para correr la app
+
 
 Hola, buenas tardes Julio, esperando te encuentres bien.
 
