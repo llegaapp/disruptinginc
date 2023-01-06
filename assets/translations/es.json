@@ -1,0 +1,69 @@
+{   
+    "common":{
+        "nav":{
+            "home":"Inicio",
+            "shop":"Tienda",
+            "bag":"Carrito",
+            "profile":"Perfil"
+        },
+        "buttons":{
+            "add_to_cart":"Agrega a carrito",
+            "check_out":"Comprar",
+            "continue_shopping":"Continuar Compra"
+        },
+        "placeholder":{
+            "name":"John Doe",
+            "mail":"johndoe@gmail.com"
+        },
+        "login":{
+            "title":"Iniciar sesión"
+        },
+        "register":{
+            "title":"Registro de usuario",
+            "name":"Registrar"
+        },
+        "messages":{
+            "bag_add":"Agregado a carrito.",
+            "bag_remove":"Eliminado de carrito."
+        }
+    },
+    "home":{
+        "title":"Nueva Coleccion",
+        "sale":"Venta\nVerano",
+        "hoodies":"Hombres",
+        "black":"black"
+    },
+    "shop":{
+        "title":"Tienda",
+        "sort":"Ordenar por",
+        "sort_types":{
+            "popular":"popular",
+            "newest":"Nuevos",
+            "reviews":"Reseñas",
+            "price_low":"Precio: Alto a bajo",
+            "price_high":"Precio: Bajo a Alto"
+        }
+    },
+    "bag":{
+        "title":"Mi carrito",
+        "promo":"Introduce tu código de promoción",
+        "total":"Total",
+        "codes":"Tus códigos promocionales",
+        "apply":"Solicitar",
+        "empty":"Carrito vacío"
+    },
+    "profile":{
+        "title":"Perfil",
+        "settings":"Ajustes",
+        "theme":"Tema oscuro",
+        "phone":"phone:"
+        },
+    "product_detail":{
+        "shipping_info":"shipping info",
+        "support":"support"
+    },
+    "success":{
+        "title":"REalizado!",
+        "thanks":"Su pedido será entregado pronto.\nGracias por elegir nuestra aplicación."
+    }
+} 
